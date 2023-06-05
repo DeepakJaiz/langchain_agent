@@ -20,6 +20,8 @@ Install Jupyter Notebook to run the code. <br/>
 
 ### Modules required
 `pip install langchain`<br/>
+`pip install -U wikipedia`<br/>
+`pip install DateTime`<br/>
 
 ### How to run
 Open above file in Jupyter Notebook and select the cell from top one by one and click run to run the code.
